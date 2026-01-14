@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1a4942a76c10c1649aec4dd2a8446475
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328245
+  packageName: Ultimate 2D Platformer Toolkit
+  packageVersion: 1.0.0
+  assetPath: Assets/2D_Platformer_Toolkit/Animations/ProtoLedgeClimb.anim
+  uploadId: 814066

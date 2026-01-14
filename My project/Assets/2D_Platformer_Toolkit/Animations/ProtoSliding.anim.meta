@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f84db3aa67d80ba40823daa45864bfe5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328245
+  packageName: Ultimate 2D Platformer Toolkit
+  packageVersion: 1.0.0
+  assetPath: Assets/2D_Platformer_Toolkit/Animations/ProtoSliding.anim
+  uploadId: 814066

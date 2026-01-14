@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e41f526835606eb4483eff1e67f8a716
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328245
+  packageName: Ultimate 2D Platformer Toolkit
+  packageVersion: 1.0.0
+  assetPath: Assets/2D_Platformer_Toolkit/Animations/ProtoWallSlide.anim
+  uploadId: 814066

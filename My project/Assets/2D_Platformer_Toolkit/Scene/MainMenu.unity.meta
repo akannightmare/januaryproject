@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 38568b449654ff74f9c5a533218d3701
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328245
+  packageName: Ultimate 2D Platformer Toolkit
+  packageVersion: 1.0.0
+  assetPath: Assets/2D_Platformer_Toolkit/Scene/MainMenu.unity
+  uploadId: 814066

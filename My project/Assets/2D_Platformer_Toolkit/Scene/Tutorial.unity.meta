@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f2dce2ca8cdbafd45b925d99ef72226a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328245
+  packageName: Ultimate 2D Platformer Toolkit
+  packageVersion: 1.0.0
+  assetPath: Assets/2D_Platformer_Toolkit/Scene/Tutorial.unity
+  uploadId: 814066

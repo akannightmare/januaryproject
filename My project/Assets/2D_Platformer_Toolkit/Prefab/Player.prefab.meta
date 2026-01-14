@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 25d4fa9cc6b892e40bcb40cc78a682e0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328245
+  packageName: Ultimate 2D Platformer Toolkit
+  packageVersion: 1.0.0
+  assetPath: Assets/2D_Platformer_Toolkit/Prefab/Player.prefab
+  uploadId: 814066

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3b21df407d0e564593c783fe2d36c44
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328245
+  packageName: Ultimate 2D Platformer Toolkit
+  packageVersion: 1.0.0
+  assetPath: Assets/2D_Platformer_Toolkit/Tiles/BGs/RuleTileWall 3.asset
+  uploadId: 814066

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc515bac402d26040bf1b6889e2d9cfb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6200000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328245
+  packageName: Ultimate 2D Platformer Toolkit
+  packageVersion: 1.0.0
+  assetPath: Assets/2D_Platformer_Toolkit/Materials/Platformer_Player.physicsMaterial2D
+  uploadId: 814066

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b70038c3e1d59f1479c49a8bc55c2013
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328245
+  packageName: Ultimate 2D Platformer Toolkit
+  packageVersion: 1.0.0
+  assetPath: Assets/2D_Platformer_Toolkit/Tiles/PlatformerPalette.prefab
+  uploadId: 814066

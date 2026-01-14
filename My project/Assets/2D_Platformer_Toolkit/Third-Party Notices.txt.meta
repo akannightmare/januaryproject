@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 55964523ff2947945977c8b437f9e7e9
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328245
+  packageName: Ultimate 2D Platformer Toolkit
+  packageVersion: 1.0.0
+  assetPath: Assets/2D_Platformer_Toolkit/Third-Party Notices.txt
+  uploadId: 814066

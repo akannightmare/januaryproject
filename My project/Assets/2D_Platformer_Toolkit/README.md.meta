@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9a34c5e160da93645bfe1d2832f37067
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328245
+  packageName: Ultimate 2D Platformer Toolkit
+  packageVersion: 1.0.0
+  assetPath: Assets/2D_Platformer_Toolkit/README.md
+  uploadId: 814066

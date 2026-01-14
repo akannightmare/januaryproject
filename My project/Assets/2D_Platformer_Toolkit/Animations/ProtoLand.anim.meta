@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 13c74d4730e13cc4891a72d36544deac
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328245
+  packageName: Ultimate 2D Platformer Toolkit
+  packageVersion: 1.0.0
+  assetPath: Assets/2D_Platformer_Toolkit/Animations/ProtoLand.anim
+  uploadId: 814066

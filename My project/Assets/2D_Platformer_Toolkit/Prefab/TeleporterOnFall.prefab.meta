@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f1667e41cd34a0047b3894b4e6b4f7c0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328245
+  packageName: Ultimate 2D Platformer Toolkit
+  packageVersion: 1.0.0
+  assetPath: Assets/2D_Platformer_Toolkit/Prefab/TeleporterOnFall.prefab
+  uploadId: 814066

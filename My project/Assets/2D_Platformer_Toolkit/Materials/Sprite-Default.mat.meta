@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1febe0067fc88864e979f1e2569c2828
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 328245
+  packageName: Ultimate 2D Platformer Toolkit
+  packageVersion: 1.0.0
+  assetPath: Assets/2D_Platformer_Toolkit/Materials/Sprite-Default.mat
+  uploadId: 814066

@@ -5,8 +5,10 @@ namespace Peykarimeh.PlatformerToolkit
 {
     [RequireComponent(typeof(Rigidbody2D))]
     [RequireComponent(typeof(CapsuleCollider2D))]
+    [RequireComponent (typeof(Attack2D))]
     public class Movement2D : MonoBehaviour
     {
+        [SerializeField] public float testval = 1f;
         public GUIStyle mainHeaderStyle = new GUIStyle();
         Animator animator;
         [SerializeField] Transform spriteTransform;
@@ -27,6 +29,7 @@ namespace Peykarimeh.PlatformerToolkit
         [SerializeField] float speedDownDuration = 0.06f;
         [Range(0.02f, 1)]
         [SerializeField] float stopDuration = 0.15f;
+        [SerializeField] bool canJump2;
 
         //[Header("DASH")]
         [SerializeField] bool Dash;
@@ -241,7 +244,6 @@ namespace Peykarimeh.PlatformerToolkit
         private void Update()
         {
             HandlePlatformerMovement();
-
         }
 
         private void FixedUpdate()

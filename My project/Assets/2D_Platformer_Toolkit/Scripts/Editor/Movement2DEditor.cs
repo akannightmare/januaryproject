@@ -12,6 +12,7 @@ namespace Peykarimeh.PlatformerToolkit
         bool _jumpDebug;
         bool _wallSlideDebug = false;
         bool _speedDebug = false;
+        bool _attack;
         bool _ledgeDebug;
         bool _onCeilDebug;
         bool _onGroundDebug;

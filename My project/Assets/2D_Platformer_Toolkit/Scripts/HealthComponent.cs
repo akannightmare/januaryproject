@@ -24,6 +24,7 @@ public class HealthComponent : MonoBehaviour, IDamageable
     public void TakeDamage(int damage)
     {
         _defaultHealthAmount -= damage;
+        Debug.Log("PLAYER HIITED");
 
         if (_defaultHealthAmount <= 0)
         {

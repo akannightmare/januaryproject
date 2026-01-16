@@ -25,6 +25,7 @@ public class Attack2D : MonoBehaviour
 
             _nextAttackTime = Time.time + _meleeAttackCooldown;
         }
+
     }
 
     void Attack()
@@ -46,6 +47,16 @@ public class Attack2D : MonoBehaviour
             {
                 damageable.TakeDamage(_meleeDamage);
             }
+        }
+    }
+
+    public void TryAttack()
+    {
+        if (Time.time >= _nextAttackTime)
+        {
+            Attack();
+            Debug.Log("hit");
+            _nextAttackTime = Time.time + _meleeAttackCooldown;
         }
     }
 
